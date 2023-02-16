@@ -1,0 +1,32 @@
+body{
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.avatar{
+    width: 150px;
+}
+
+.card{
+    background-color: #FFADC6;
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    align-items: center;
+    color: #361134;
+    border-bottom: 10px solid #DDA3B2;
+    transition: 0.3s;
+}
+
+.card:hover{
+    box-shadow: 10px 10px;
+    transition: 0.3s;
+}
+.text-wrapper{
+    flex-direction: column;
+
+}
+

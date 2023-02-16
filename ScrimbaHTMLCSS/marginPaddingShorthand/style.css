@@ -1,0 +1,19 @@
+.red-circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  background: #bc002d;
+
+  /* 
+    Challenge:
+    Translate this into using the margin shorthand. 
+    */
+
+ /* margin: 40px 0 0 100px;*/
+
+  /*
+    If you would like to center, and set a defined margin for the top and bottom, you should do this
+   */
+
+   margin: 40px auto;
+}

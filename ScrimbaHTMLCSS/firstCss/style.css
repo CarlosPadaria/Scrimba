@@ -1,0 +1,13 @@
+body{
+    background: pink;
+    color: palevioletred;
+    font-size: 100px;
+    font-weight: normal;
+    text-align: right;
+    margin-top: 40px;
+}
+
+/**{
+    border: 1px solid red;
+    margin: 5px;
+}*/
